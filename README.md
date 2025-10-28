@@ -1,2 +1,2 @@
 # COSC-2325-PP1-and-PP2
-Fibonacci sequence implemented in mips
+Convert base 1-9 to base 10 implimented in mips
